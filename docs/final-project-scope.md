@@ -3,7 +3,7 @@
 
 ### Project Purpose
 
-The purpose of this website is to create a small website of content that gets into discussion, valuable insights, and practical tips about the realities, challenges, and process of navigating a career change
+The purpose of this website is to create a small website of content that gets into discussion, valuable insights, and practical tips about the realities, challenges, and process of navigating a career change.
 
 ### Description
 
