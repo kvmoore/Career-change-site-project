@@ -5,7 +5,7 @@
 1. Figure out topic
 2. create a final project folder
 3. create a project scope, plan and retrospective place holder .md files. Create a docs folder in the project folder to put these files in.
-3. Create 2 HTML place holder docs, a CSS file, and an About.md. These will go in the project folder
+3. Create 2 HTML place holder docs, a CSS file, and an about.md file. These will go in the project folder
 4. Create and README file in the repository  
 
 ### Design phase: Estimated  1 - 2 days
