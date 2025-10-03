@@ -14,6 +14,13 @@
 2. Create content for the repository README file
 3. Create content, style and structure in the HTML and CSS files for the website
 <br>
-<br>
 
 ### Risk
+
+- Not having enough time to finish: Impact: 5  Probability: 3  Score: 15
+- Not understanding the instructions:  Impact: 5  Probability: 3  Score: 15
+- Getting stuck or not being able figure something out: Impact: 5  Probability: 3  Score: 15
+
+#### Mitigating the risk
+
+To the risk score is fairly high across, The plan is to try  and mitigate these risks by spending a lot of time early, and taking extra hours or time off need to complete this project.
